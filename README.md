@@ -1,6 +1,6 @@
-### Hi 👋 I'm Romain / Sarinu
+<h1 align="center">Hi 👋, I'm Romain</h1>  
+<h3 align="center">I'm Programer</h3>  
+  
+- 🔭 I’m currently working on [Shadow's Raven](https://discord.gg/mvDwUVj)    
 
-### I'm a Programmer
-
-🔭 I’m currently working on Shadow's Raven
-🌱 I’m currently learning Java
+- 📫 How to reach me: [Discord](https://dsc.bio/SirLink) & [Twitter](https://twitter.com/_SirLink)
