@@ -4,3 +4,5 @@
 - 🔭 I’m currently working on [Shadow's Raven](https://discord.gg/mvDwUVj)    
 
 - 📫 How to reach me: [Discord](https://dsc.bio/SirLink) & [Twitter](https://twitter.com/_SirLink)
+
+- 💻 I'm develop in Java, Javascript, Python, Web, C++ (In learning)
